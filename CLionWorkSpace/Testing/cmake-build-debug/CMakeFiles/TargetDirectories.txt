@@ -1,0 +1,3 @@
+/home/lotuswhl/programe/cpp/CLionWorkSpace/Testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lotuswhl/programe/cpp/CLionWorkSpace/Testing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lotuswhl/programe/cpp/CLionWorkSpace/Testing/cmake-build-debug/CMakeFiles/Testing.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lotuswhl/programe/cpp/CLionWorkSpace/Testing/main.cpp
+iostream
+-
+list
+-
+algorithm
+-
+vector
+-
+type_traits
+-
+tuple
+-
+
