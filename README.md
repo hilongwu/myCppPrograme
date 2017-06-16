@@ -1,0 +1,3 @@
+# myCppPrograme
+
+### just some little programes of the proccesses for cpp learning....
