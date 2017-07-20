@@ -24,7 +24,7 @@ int main(int argc,char*argv[]){
     // 设置套接字参数
     serverAddr.sin_family = AF_INET;
     // htons:大小端交换 <主机到网络短整数>
-    serverAddr.sin_port = htons(13);
+    serverAddr.sin_port = htons(9999);
 
     // 将IP127.0.0.1等变为数值型，存储到serverAddr的相应位置
     if(inet_pton(AF_INET,argv[1],&serverAddr.sin_addr) <= 0){

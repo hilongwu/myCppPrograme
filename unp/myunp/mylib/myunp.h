@@ -20,6 +20,8 @@
 
 // 预定义需要使用的宏
 #define MAX_LINE 2048
+// 监听队列的长度
+#define LISTENQ 1024
 
 
 // 自定义函数声明
